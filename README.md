@@ -2,7 +2,9 @@ About MTPT
 --------------------
 MTPT is based on the NexusPHP project, with many improvements.
 You can get it from http://github.com/MTPT/mtpt/
-* 原库代码过于混乱，且和现存版本有较大差距，故清空重建,将于近期上线！ *
+声明
+--------------------
+* 原库代码过于混乱，且和现存版本有较大差距，故清空重建,新版代码将于近期上线！
 
 LICENSE
 --------------------
